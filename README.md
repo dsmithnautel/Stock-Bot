@@ -53,5 +53,3 @@ For any questions or issues, please open an issue in the repository or reach out
 - You can also contact the owner or other contributors via email or discussion forums linked in the repository.
 
 ---
-This README provides a clear, structured guide for new users and contributors, ensuring they can easily install, configure, and contribute to Stock-Bot.
-
